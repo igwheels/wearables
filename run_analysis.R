@@ -89,4 +89,4 @@ averages <- mergeDF %>%
 ## Create output directory and write results of independent tidy data set to it
 
 if(!file.exists("./output")){dir.create("./output")}
-write_csv(averages, "./output/averages.csv")
+write.table(averages, file = "./output/averages.txt")

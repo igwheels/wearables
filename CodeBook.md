@@ -32,4 +32,4 @@
         10. Replace the activity numbers with descriptive activity names. (Instructions #3 above.)
         11. Calculate the average of each variable in the merged data set, grouped by activity and subject.
         (Instructions #5 above.)
-        12. Export the grouped averages to an output folder with the filename called "average.csv".
+        12. Export the grouped averages to an output folder with the filename called "average.txt".
